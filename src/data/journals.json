@@ -1,0 +1,32 @@
+[
+    {
+      "id": "01959255",
+      "journal": "Environmental Impact Assessment Review",
+      "cover": "https://api.elsevier.com/content/serial/title/issn/0195-9255?view=coverimage",
+      "impactFactor": 6.122,
+      "citeScore": 7.6,
+      "acceptanceRate": 12.18,
+      "timeToFirstDecision": 2.8,
+      "publicationTime": 1.9,
+      "issn": "0195-9255",
+      "links": {
+        "journal": "https://www.elsevier.com/locate/issn/0195-9255",
+        "submission": "https://www.editorialmanager.com/EIR/default.aspx"
+      }
+    },
+    {
+        "id": "01959255",
+        "journal": "Environmental Impact Assessment Review",
+        "cover": "https://api.elsevier.com/content/serial/title/issn/0195-9255?view=coverimage",
+        "impactFactor": 6.122,
+        "citeScore": 7.6,
+        "acceptanceRate": 12.18,
+        "timeToFirstDecision": 2.8,
+        "publicationTime": 1.9,
+        "issn": "0195-9255",
+        "links": {
+          "journal": "https://www.elsevier.com/locate/issn/0195-9255",
+          "submission": "https://www.editorialmanager.com/EIR/default.aspx"
+        }
+      }
+]
